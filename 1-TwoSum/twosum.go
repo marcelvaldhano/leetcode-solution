@@ -18,3 +18,16 @@ func twoSum(nums []int, target int) []int {
 	}
 	return []int{}
 }
+
+func twoSumMap(nums []int, target int) []int {
+	s := make(map[int]int)
+
+	for idx, num := range nums {
+		index, valid := s[target-num]
+		if valid {
+			return []int{index, idx}
+		}
+		s[num] = idx
+	}
+	return []int{}
+}
