@@ -1,3 +1,6 @@
 # leetcode-solution
 
-Hi, Marcel is here. So this is my leet-code solution journal.
+<h1 align="center">Hi 👋, I'm Marcel Valdhano</h1>
+<h3 align="center">A passionate Software Engineer in Indonesia</h3>
+<p align="left">
+</p>
