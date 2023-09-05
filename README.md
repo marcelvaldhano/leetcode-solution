@@ -1,6 +1,6 @@
 # leetcode-solution
 
-<h1 align="center">Hi 👋, I'm Marcel Valdhano</h1>
-<h3 align="center">A passionate Software Engineer in Indonesia</h3>
-<p align="left">
-</p>
+Hi, Marcel is here 🧑‍💻.
+So this is my leet-solution journal. This repository aimed to tracking my progress to improve my algorithm and golang skill.
+Hope that my solution will useful for you who read this.
+Once again, I wanna say thankyou for you who coming here.
