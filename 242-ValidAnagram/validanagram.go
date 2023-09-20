@@ -14,11 +14,11 @@ func isAnagram(s string, t string) bool {
 		return false
 	}
 
-	for i, _ := range s {
+	for i := range s {
 		count[int(s[i]-'a')] += 1
 		count[int(t[i]-'a')] -= 1
 	}
-	for i, _ := range count {
+	for i := range count {
 		if count[i] != 0 {
 			return false
 		}
